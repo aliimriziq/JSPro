@@ -1,0 +1,20 @@
+{
+  "name": "t1e",
+  "version": "1.0.0",
+  "description": "task 1 emplyees",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ali Imriziq",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.13.17"
+  },
+  "devDependencies": {}
+}
